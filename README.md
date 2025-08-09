@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin
 
-<!--
-**AICodeRunner/AICodeRunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Builder in training** • **VibeCoding enthusiast** • Exploring **Lovable + Cursor** 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Doing
+- Building and experimenting with different projects
+- Learning modern development workflows without coding everything from scratch
+- Using VibeCoding to create apps and tools faster
+
+### 💡 Interests
+- AI-assisted development
+- User experience (UX) flows and design
+- Automation and creative problem solving
+
+### 🌱 Currently Learning
+- GitHub fundamentals and best practices
+- How to use Lovable and Cursor effectively
+- Project setup, version control, and clean workflows
+
+### 📫 Connect
+- 🌍 Copenhagen, Denmark
